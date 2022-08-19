@@ -6,4 +6,4 @@ Comentário:
 A engenharia de software vai além da simples tarefa de programar, já que exige tempo e organização e uma boa noção de controle dos mesmos. O engenheiro de software está constantemente trabalhando no projeto, fazendo alterações e manutenções conforme o necessário. Logo, programação e engenharia de software são coisas distintas, por mais que estejam de alguma forma relacionadas.
 
 API/Trade-off:
-O trade-off do API é uam troca do esforço, organização e tempo investidos pela experiência e conhecimento que são adquiridos ao decorrer do desenvolvimento do projeto como recompensa.
+O trade-off do API é uma troca do esforço, organização e tempo investidos pela experiência e conhecimento que são adquiridos ao decorrer do desenvolvimento do projeto como recompensa.
