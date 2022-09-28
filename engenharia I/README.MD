@@ -8,6 +8,10 @@ AULA 03 - 25/08/2022 - ATIVIDADE DE REQUISITOS
 https://github.com/ste-fa-nie/bertoti/blob/main/engenharia%20I/25.08.2022%20-%20atividade%20de%20requisitos.md
 
 ATIVIDADE DE DIAGRAMA DE CLASSES
+
+Casos de uso:
+![casos de uso](https://user-images.githubusercontent.com/102293897/192851656-8f6e9338-ef83-442a-a6ce-574f6cf47def.png)
+
 <p align = center>
-  <img width = "450" src"https://github.com/ste-fa-nie/bertoti/blob/main/engenharia%20I/img_readme/casos%20de%20uso.png"
+  <img width = "400" src"https://user-images.githubusercontent.com/102293897/192851656-8f6e9338-ef83-442a-a6ce-574f6cf47def.png"
 </p>
