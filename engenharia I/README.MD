@@ -7,7 +7,7 @@ https://github.com/ste-fa-nie/bertoti/blob/main/engenharia%20I/19.08.2022%20-%20
 AULA 03 - 25/08/2022 - ATIVIDADE DE REQUISITOS
 https://github.com/ste-fa-nie/bertoti/blob/main/engenharia%20I/25.08.2022%20-%20atividade%20de%20requisitos.md
 
-<h4> ATIVIDADE DE DIAGRAMA DE CLASSES </h4>
+AULA 04 - DESENVOLVIMENTO DOS CASOS DE USO E DAIGRAMA DE CLASSES UML
 
 Casos de uso
 ![casos de uso](https://user-images.githubusercontent.com/102293897/192851656-8f6e9338-ef83-442a-a6ce-574f6cf47def.png)
@@ -22,3 +22,9 @@ Diagrama de Classes UML
 <p align = center>
   <img width = "325" src"https://user-images.githubusercontent.com/102293897/192852207-616fa831-e3dd-418f-9228-837cc4b89768.png"
 </p>
+
+AULA 05 - DESENVOLVIMENTO DO CÓDIGO REFERENTE AO PROJETO PLANEJADO
+
+Desenvolveu-se uma aplicação em linguagem Java, o qual é utilizado em uma loja de sapatos. O funcionário da loja tem possibilidade de cadastrar e pesquisar calçados no sistema.
+
+A aplicação é encontrada através do diretório bertoti/engenharia I/Loja_de_Sapatos/
