@@ -17,10 +17,11 @@ Casos de uso
 </p>
 
 Diagrama de Classes UML
-![diagrama de classes uml](https://user-images.githubusercontent.com/102293897/192852207-616fa831-e3dd-418f-9228-837cc4b89768.png)
+
+![diagr](https://user-images.githubusercontent.com/102293897/203963565-4a7568cd-a12b-4e2e-b91f-0cb6b87434bc.png)
 
 <p align = center>
-  <img width = "325" src"https://user-images.githubusercontent.com/102293897/192852207-616fa831-e3dd-418f-9228-837cc4b89768.png"
+  <img width = "325" src"https://user-images.githubusercontent.com/102293897/203963565-4a7568cd-a12b-4e2e-b91f-0cb6b87434bc.png"
 </p>
 
 AULA 05 - DESENVOLVIMENTO DO CÓDIGO REFERENTE AO PROJETO PLANEJADO
