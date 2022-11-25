@@ -18,7 +18,8 @@ Casos de uso
 
 Diagrama de Classes UML
 
-![diagr](https://user-images.githubusercontent.com/102293897/203963565-4a7568cd-a12b-4e2e-b91f-0cb6b87434bc.png)
+![(Int Int](https://user-images.githubusercontent.com/102293897/203964166-6986d477-3b77-4e8f-bc35-b70b74d18a44.png)
+
 
 <p align = center>
   <img width = "325" src"https://user-images.githubusercontent.com/102293897/203963565-4a7568cd-a12b-4e2e-b91f-0cb6b87434bc.png"
