@@ -10,7 +10,7 @@ https://github.com/ste-fa-nie/bertoti/blob/main/engenharia%20I/25.08.2022%20-%20
 AULA 04 - DESENVOLVIMENTO DOS CASOS DE USO E DAIGRAMA DE CLASSES UML
 
 Casos de uso
-![casos de uso](https://user-images.githubusercontent.com/102293897/192851656-8f6e9338-ef83-442a-a6ce-574f6cf47def.png)
+![Cadastrar Sapatos](https://user-images.githubusercontent.com/102293897/204110994-10b75362-1073-4f8c-9b3f-07479dcca242.png)
 
 <p align = center>
   <img width = "325" src"https://user-images.githubusercontent.com/102293897/192851656-8f6e9338-ef83-442a-a6ce-574f6cf47def.png"
