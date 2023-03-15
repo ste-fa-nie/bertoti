@@ -1,5 +1,7 @@
 ### ATIVIDADE I - HEURÍSTICAS ###
 
+#### Site escolhido: https://www.emtu.sp.gov.br/EMTU/home/home.htm ####
+
 ****Heurística #8 - Estética e design minimalista****
 
 ![Untitled](https://user-images.githubusercontent.com/102293897/225400357-242d512c-6f34-4cda-b9fc-391070733f80.png)
