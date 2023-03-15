@@ -1,4 +1,4 @@
-###ATIVIDADE I - HEURÍSTICAS
+### ATIVIDADE I - HEURÍSTICAS ###
 
 ****Heurística #8 - Estética e design minimalista****
 
