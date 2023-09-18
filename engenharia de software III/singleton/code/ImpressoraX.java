@@ -1,8 +1,8 @@
-public static class ImpressoraX {
+public class ImpressoraX {
 	private static ImpressoraX impressoraX;
 	private ImpressoraX(){
 	}
-	public ImpressoraX getInstance(){
+	public static ImpressoraX getInstance(){
 		if(impressoraX == null){
 			impressoraX = new ImpressoraX();
 		}
